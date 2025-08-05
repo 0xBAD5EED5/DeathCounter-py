@@ -1,0 +1,1 @@
+# Death Counter - Package initialization

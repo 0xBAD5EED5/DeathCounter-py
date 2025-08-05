@@ -1,0 +1,73 @@
+# Death Counter - Project specific files
+death_counter.json
+death_counter_config.json
+death_screenshot_*.png
+death_processed_*.png
+screenshots/
+debug_images/
+*.log
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/.idea/
+*.swpp
+*.swo
+*~
+.history/story/
+
+# OS
+.DS_Store
+.DS_Store??
+._*._*
+.Spotlight-V100
+.Trasheshes
+ehthumbs.dbmbs.db
+Thumbs.dbs.db
+
+# Temporary files
+*.tmp*.tmp
+demo_*.pytest_*.py# Test files.EasyOCR/# EasyOCR cache*.cache*.bak*.temp*.temp
+*.bak
+*.cache
+
+# EasyOCR cache
+.EasyOCR/
+
+# Test files
+test_*.py
+demo_*.py
